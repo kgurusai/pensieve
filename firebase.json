@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "kgurusai/pensieve",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
